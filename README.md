@@ -1,5 +1,7 @@
 # Programming Concepts
 
+Awwal Mohammed <br>
+International University of Malaya-Wales &copy; 2017 <hr>
 A repository for my first introductory course to programming with Python.
 
 ## Getting Started
